@@ -1,0 +1,9 @@
+body{
+    background: url('./images/images.jpg');
+    background-size: cover;
+}
+h1{
+    color: darkred;
+    font-family: Papyrus;
+    font-size: 100px;
+}
